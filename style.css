@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(22, 65, 22);
+  background-color: rgb(192, 192, 192);
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+#snake {
+  border-radius: 10px;
+}
+
